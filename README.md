@@ -2,7 +2,7 @@
 Homework - Secure Password
 ## Overview
 
-**Second Homework** 
+**Third Homework** 
 This is the third homework that contains:
 * Web Page with Secure Password Generator in Github: [GitHub link](https://ragexxx.github.io/homework_3/)
 * Generate Password with lowercase, uppercase, numbers and special charactes.
