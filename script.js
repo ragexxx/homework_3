@@ -58,10 +58,10 @@ function generatePassword(){
 
 // Write password to the #password input
 function writePassword() {
-  var password = generatePassword();
+  var password2 = generatePassword();
   var passwordText = document.querySelector("#password");
 
-  passwordText.value = password;
+  passwordText.value = password2;
 
 }
 
