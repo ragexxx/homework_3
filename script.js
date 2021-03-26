@@ -1,7 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 var lowerCase = "abcdefghijklmnopqrstuvwxyz";
-var upperCase = lowerCase.toUpperCase();
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numeric = "0123456789";
 var specialChar = "!@#$%^&*";
 var passLength = "";
@@ -23,6 +23,7 @@ function askAtributes(){
     askAtributes();
   }
   else{
+    password = '';
     if( question[0]){
       password += lowerCase;
     }
